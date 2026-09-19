@@ -1,9 +1,4 @@
 # BNCC Website — Team Project
-
-## Visualisasi
-- Screenshot: (upload screenshot ke folder assets, lalu tampilkan di sini)
-- Demo: (opsional) https://NADS00.github.io/bncc-team-project/
-
 ## Tech Stack
 - HTML5, CSS3, JavaScript (Vanilla)
 - Git & GitHub (Branching, Pull Request, Code Review)
