@@ -1,1 +1,6 @@
-// script.js — akan diisi oleh Script Engineer
+document.addEventListener('DOMContentLoaded', () => {
+  const h1 = document.querySelector('h1');
+  h1.addEventListener('click', () => {
+    alert('Halo BNCC! JavaScript sudah terhubung.');
+  });
+});
